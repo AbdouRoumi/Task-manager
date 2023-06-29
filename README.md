@@ -1,6 +1,6 @@
 # task-manager
 Task manager created with NodeJS and MongoDB while learning from Coding.
-FreeCodeCamp link: https://www.youtube.com/watch?v=qwfE7fSVaZM&amp;thttps://www.youtube.com/watch?v=qwfE7fSVaZM&t
+FreeCodeCamp link: https://www.youtube.com/watch?v=qwfE7fSVaZM&t
 
 #### Setup
 In order to run the project, setup .env and set MONGO_URI variable equal to DB connection string.
